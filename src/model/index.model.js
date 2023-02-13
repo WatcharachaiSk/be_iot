@@ -20,5 +20,6 @@ db.Sequelize = Sequelize;
 db.sequelize = sequelize;
 
 db.Dht22 = require("./schema/dht22")(sequelize, Sequelize);
+db.Button = require("./schema/button")(sequelize, Sequelize);
 
 module.exports = db;
