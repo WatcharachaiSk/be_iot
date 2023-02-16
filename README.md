@@ -2,8 +2,6 @@
 
 พัฒนาโดยใช้ NodeJs Express, Database MySQL
 
-พัฒนาโดยใช้ React
-
 วัตถุประสงค์
 1.	เพื่อนำความรู้จากการศึกษา NodeMCU มาประยุกต์ใช้งานเป็น Mini project
 2.	เพื่อเข้าใจการทำงานของ NodeMCU เพื่อติดต่อกับ Database โดยใช้ API
